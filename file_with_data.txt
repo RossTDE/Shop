@@ -1,0 +1,7 @@
+Pelmeni 25 1000
+Apples 100 1
+Water 50 2
+Eggs 20 5
+Milk 30 4
+Meat 25 15
+
